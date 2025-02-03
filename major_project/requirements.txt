@@ -1,6 +1,5 @@
 bcrypt
 streamlit
-sqlite3
 pandas
 yfinance
 joblib

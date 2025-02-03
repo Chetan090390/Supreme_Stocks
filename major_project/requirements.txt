@@ -1,0 +1,9 @@
+bcrypt
+streamlit
+sqlite3
+pandas
+yfinance
+joblib
+tensorflow
+scikit-learn
+matplotlib
